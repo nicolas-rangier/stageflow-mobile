@@ -1,0 +1,9 @@
+StageFlow Mobile V3.1 — Prototype 3B (Safari)
+
+Sur GitHub Pages : remplacer index.html et sw.js et AJOUTER jsQR.js à la racine du dépôt. Conserver manifest.webmanifest et les icônes existantes.
+
+Tester caméra, photo, saisie manuelle, MAT/ACC, prestations, plans et mode avion. La caméra doit être autorisée par iOS.
+
+Prototype 2C reste la version stable de secours.
+
+V3.2 BETA 1 : affichage facultatif des photos accessoires importees depuis le PC.
